@@ -15,9 +15,11 @@
 
 I’m a data storyteller passionate about solving real-world problems with clean code, meaningful models, and sharp visuals. Whether it's parsing 8M+ records, building an ETL pipeline, or deploying semantic search with BERT, I thrive where data meets decision-making.
 
-- 🔍 Currently building NLP and job-matching systems using vector DBs
-- 📈 Obsessed with KPIs, forecasting, automation & dashboard design
-- 🌱 Learning continuously — currently diving deeper into cloud-native ML
+- Collect and prepare data from diverse sources (databases, APIs, flat files)  
+- Analyze trends, detect outliers, and extract key performance insights  
+- Build automated reports and interactive dashboards that drive decisions  
+- Apply statistical methods to evaluate business hypotheses  
+- Communicate complex findings in a clear, visual, and actionable way  
 
 ---
 
@@ -57,7 +59,7 @@ I’m a data storyteller passionate about solving real-world problems with clean
 
 ## 💼 Experience
 
-### 🔹 Data Analyst | Heuristics Pharma Perceptions (USA)  
+### 🔹 Data Analyst | Heuristics Pharma Perceptions 
 📅 Jan 2025 – May 2025  
 - Developed OTP backend workflows in Node.js & MySQL, reducing deployment steps by 80%  
 - Built semantic job-matching models with Sentence-BERT + pgvector  
@@ -65,7 +67,7 @@ I’m a data storyteller passionate about solving real-world problems with clean
 
 ---
 
-### 🔹 Data Analyst | Accenture (India)  
+### 🔹 Data Analyst | Accenture  
 📅 Nov 2020 – Aug 2023  
 - Led web reporting platform (ASP.NET MVC + SQL Server + React.js) for 60+ daily users  
 - Automated 50+ ETL pipelines (SQL Server & Teradata) for 8M daily records  
@@ -74,7 +76,7 @@ I’m a data storyteller passionate about solving real-world problems with clean
 
 ---
 
-### 🔹 Data Analyst | Adani (India)  
+### 🔹 Data Analyst | Adani   
 📅 May 2020 – Nov 2020  
 - Consolidated SCADA and sensor logs across 12 units for weekly energy audits  
 - Designed 20+ Power BI dashboards tracking runtime/load metrics for supervisors  
@@ -82,7 +84,7 @@ I’m a data storyteller passionate about solving real-world problems with clean
 
 ---
 
-### 🔹 Data Analyst Intern | Adani (India)  
+### 🔹 Data Analyst Intern | Adani   
 📅 Dec 2019 – May 2020  
 - Collected 50K+ equipment logs across 3 facilities to generate daily reports  
 - Created Power BI views for downtime and energy variance  
@@ -90,30 +92,14 @@ I’m a data storyteller passionate about solving real-world problems with clean
 
 ---
 
-## 🎓 Education
-
-🎓 **Master of Science in Data Science**  
-📍 Pace University, New York  
-📅 Sep 2023 – May 2025 | GPA: 3.89/4.0
-
----
-
 ## 🏅 Certifications
 
 - Microsoft Certified: Azure Fundamentals (AZ-900)  
 - Microsoft Certified: Power Platform Fundamentals (PL-900)  
-- IBM Python for Data Science  
-- IBM Machine Learning & Data Visualization  
-- Cognizant AI Virtual Experience Program (Forage)
+- IBM: IBM Python for Data Science , IBM Machine Learning & Data Visualization    
+- Forage: Cognizant AI Virtual Experience Program , Cognizant - Artificial Intelligence Job Simulation
 
 ---
 
-## 📬 Let’s Connect!
 
-I'm always open to networking, collaborating on cool data projects, or discussing how data can drive impact.
-
-📧 Email: [bhuvaneswarineela16@gmail.com](mailto:bhuvaneswarineela16@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/neela-bhuvaneswariri-a19aa4178/)
-
----
 
