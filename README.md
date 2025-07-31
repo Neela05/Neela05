@@ -1,34 +1,119 @@
-## Hi, I am Bhuvaneswari Neela👋
+<h1 align="center">Hi there 👋, I'm Bhuvaneswari Neela</h1>
+<h3 align="center">Data Analyst | Cloud Enthusiast | ML Explorer</h3>
 
-MS Data Science @ Pace University 📍 New York, NY · Open to Data Science & Data Engineer Roles
+<p align="center">
+  📍 New Jersey, USA • 🎓 MS in Data Science @ Pace University  
+</p>
+<p align="center">
+  <a href="mailto:bhuvaneswarineela16@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/neela-bhuvaneswariri-a19aa4178/">🔗 LinkedIn</a>
+</p>
 
+---
 
-## 🛠️ Tech Stack
+## 🧠 About Me
 
-### 🧑‍💻 Languages & Databases
-| [![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)](https://www.python.org/) | [![SQL](https://img.shields.io/badge/SQL-FFCA28?style=flat&logo=sqlite&logoColor=black)](https://en.wikipedia.org/wiki/SQL) | [![MySQL](https://img.shields.io/badge/MySQL-00758F?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/) | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/) |
-|---|---|---|---|
+I’m a data storyteller passionate about solving real-world problems with clean code, meaningful models, and sharp visuals. Whether it's parsing 8M+ records, building an ETL pipeline, or deploying semantic search with BERT, I thrive where data meets decision-making.
 
-### 🤖 Machine Learning / Deep Learning
-| [Scikit-learn](https://scikit-learn.org/) | [TensorFlow](https://www.tensorflow.org/) | [PyTorch](https://pytorch.org/) | [OpenCV](https://opencv.org/) | [MLflow](https://mlflow.org/) |
-|---|---|---|---|---|
+- 🔍 Currently building NLP and job-matching systems using vector DBs
+- 📈 Obsessed with KPIs, forecasting, automation & dashboard design
+- 🌱 Learning continuously — currently diving deeper into cloud-native ML
 
-### 🤖 LLMs & GenAI
-| [OpenAI](https://openai.com/) | [Hugging Face](https://huggingface.co/) | [LangChain](https://www.langchain.com/) | [Transformers](https://huggingface.co/docs/transformers/index) | [RAG](https://huggingface.co/docs/transformers/tasks/retrieval) |
-|---|---|---|---|---|
+---
 
-### 🧰 Frameworks & APIs
-| [Flask](https://flask.palletsprojects.com/) | [FastAPI](https://fastapi.tiangolo.com/) | [Streamlit](https://streamlit.io/) |
-|---|---|---|
+## 🛠 Tech Stack
 
-### ⚙️ Big Data & MLOps
-| [PySpark](https://spark.apache.org/docs/latest/api/python/) | [Hive](https://cwiki.apache.org/confluence/display/Hive/Home) | [Docker](https://www.docker.com/) | [Kubernetes](https://kubernetes.io/) | [Airflow](https://airflow.apache.org/) |
-|---|---|---|---|---|
+**Languages:**  
+`Python` | `SQL (T-SQL, PL/SQL)` | `R` | `SAS` | `Regex` | `VBA`
 
-### ☁️ Cloud & DevOps
-| [Azure](https://azure.microsoft.com/) | [AWS](https://aws.amazon.com/) | [SageMaker](https://aws.amazon.com/sagemaker/) | [Azure ML](https://azure.microsoft.com/en-us/products/machine-learning/) | [GitHub Actions](https://docs.github.com/en/actions) |
-|---|---|---|---|---|
+**Libraries & Frameworks:**  
+`Pandas` | `NumPy` | `Scikit-learn` | `Matplotlib` | `Seaborn`  
+`ASP.NET MVC` | `React.js` | `XGBoost` | `TensorFlow` | `spaCy`
 
-### 📊 Visualization
-| [Pandas](https://pandas.pydata.org/) | [Matplotlib](https://matplotlib.org/) | [Seaborn](https://seaborn.pydata.org/) | [Power BI](https://powerbi.microsoft.com/) | [Tableau](https://www.tableau.com/) |
-|---|---|---|---|---|
+**Visualization Tools:**  
+`Power BI` | `Tableau` | `AWS QuickSight` | `Excel (Power Pivot, Macros)` | `SSRS`
+
+**Databases & Cloud:**  
+`SQL Server` | `MySQL` | `PostgreSQL` | `Snowflake` | `MongoDB`  
+`AWS (S3, EC2, Lambda, Glue, RDS)` | `Azure (ADF, Synapse)` | `GCP (BigQuery)`
+
+**ETL & DevOps:**  
+`SSIS` | `Alteryx` | `REST APIs` | `CI/CD` | `Git` | `Azure DevOps`
+
+---
+
+## 📈 Notable Projects
+
+**📊 US Chronic Disease Forecasting**  
+→ Built AWS QuickSight dashboards from prescription data to assist demand planning for 85+ oncology drugs.
+
+**💹 Financial Market Prediction**  
+→ Modeled 12K+ stock records using Random Forest and Logistic Regression to generate daily signal predictions.
+
+**✈️ Flight Delay Prediction**  
+→ Cleaned 30M flight logs using Hive, trained predictive models in Python, and built airline-specific delay visuals with Seaborn.
+
+---
+
+## 💼 Experience
+
+### 🔹 Data Analyst | Heuristics Pharma Perceptions (USA)  
+📅 Jan 2025 – May 2025  
+- Developed OTP backend workflows in Node.js & MySQL, reducing deployment steps by 80%  
+- Built semantic job-matching models with Sentence-BERT + pgvector  
+- Benchmarked NLP performance, cutting response time from 4.5s to 2.1s on high-load queries  
+
+---
+
+### 🔹 Data Analyst | Accenture (India)  
+📅 Nov 2020 – Aug 2023  
+- Led web reporting platform (ASP.NET MVC + SQL Server + React.js) for 60+ daily users  
+- Automated 50+ ETL pipelines (SQL Server & Teradata) for 8M daily records  
+- Optimized 22 queries, slashing report times from 12s to <3s  
+- Integrated unit testing into CI/CD pipelines to ensure clean deployments  
+
+---
+
+### 🔹 Data Analyst | Adani (India)  
+📅 May 2020 – Nov 2020  
+- Consolidated SCADA and sensor logs across 12 units for weekly energy audits  
+- Designed 20+ Power BI dashboards tracking runtime/load metrics for supervisors  
+- Built Python anomaly detection scripts flagging performance dips in <30 minutes  
+
+---
+
+### 🔹 Data Analyst Intern | Adani (India)  
+📅 Dec 2019 – May 2020  
+- Collected 50K+ equipment logs across 3 facilities to generate daily reports  
+- Created Power BI views for downtime and energy variance  
+- Used Python + Seaborn to find recurring fault patterns, guiding maintenance plans
+
+---
+
+## 🎓 Education
+
+🎓 **Master of Science in Data Science**  
+📍 Pace University, New York  
+📅 Sep 2023 – May 2025 | GPA: 3.89/4.0
+
+---
+
+## 🏅 Certifications
+
+- Microsoft Certified: Azure Fundamentals (AZ-900)  
+- Microsoft Certified: Power Platform Fundamentals (PL-900)  
+- IBM Python for Data Science  
+- IBM Machine Learning & Data Visualization  
+- Cognizant AI Virtual Experience Program (Forage)
+
+---
+
+## 📬 Let’s Connect!
+
+I'm always open to networking, collaborating on cool data projects, or discussing how data can drive impact.
+
+📧 Email: [bhuvaneswarineela16@gmail.com](mailto:bhuvaneswarineela16@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/neela-bhuvaneswariri-a19aa4178/)
+
+---
+
