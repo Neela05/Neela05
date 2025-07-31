@@ -15,11 +15,9 @@
 
 I’m a data storyteller passionate about solving real-world problems with clean code, meaningful models, and sharp visuals. Whether it's parsing 8M+ records, building an ETL pipeline, or deploying semantic search with BERT, I thrive where data meets decision-making.
 
-- Collect and prepare data from diverse sources (databases, APIs, flat files)  
-- Analyze trends, detect outliers, and extract key performance insights  
-- Build automated reports and interactive dashboards that drive decisions  
-- Apply statistical methods to evaluate business hypotheses  
-- Communicate complex findings in a clear, visual, and actionable way  
+- 📊 Driving data-driven decisions by identifying trends, patterns, and actionable KPIs across large datasets  
+- 📈 Building automated dashboards and reports to streamline business insights and performance monitoring  
+- ☁️ Enhancing skills in cloud-based data analytics and scalable reporting using tools like AWS, Azure, and Power BI
 
 ---
 
