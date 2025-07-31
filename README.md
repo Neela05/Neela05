@@ -28,17 +28,17 @@ I’m a data storyteller passionate about solving real-world problems with clean
 
 **Libraries & Frameworks:**  
 `Pandas` | `NumPy` | `Scikit-learn` | `Matplotlib` | `Seaborn`  
-`ASP.NET MVC` | `React.js` | `XGBoost` | `TensorFlow` | `spaCy`
+`ASP.NET MVC` | `React.js` | `XGBoost` | `spaCy`
 
 **Visualization Tools:**  
-`Power BI` | `Tableau` | `AWS QuickSight` | `Excel (Power Pivot, Macros)` | `SSRS`
+`Power BI` | `Tableau` | `AWS QuickSight` | `Excel (Power Pivot, Macros)` 
 
 **Databases & Cloud:**  
 `SQL Server` | `MySQL` | `PostgreSQL` | `Snowflake` | `MongoDB`  
 `AWS (S3, EC2, Lambda, Glue, RDS)` | `Azure (ADF, Synapse)` | `GCP (BigQuery)`
 
 **ETL & DevOps:**  
-`SSIS` | `Alteryx` | `REST APIs` | `CI/CD` | `Git` | `Azure DevOps`
+`SSIS`| `REST APIs` | `CI/CD` | `Git` | `Azure DevOps`
 
 ---
 
