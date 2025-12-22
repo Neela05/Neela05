@@ -55,41 +55,6 @@ I’m a data storyteller passionate about solving real-world problems with clean
 
 ---
 
-## 💼 Experience
-
-### 🔹 Data Analyst | Heuristics Pharma Perceptions 
-📅 Jan 2025 – May 2025  
-- Developed OTP backend workflows in Node.js & MySQL, reducing deployment steps by 80%  
-- Built semantic job-matching models with Sentence-BERT + pgvector  
-- Benchmarked NLP performance, cutting response time from 4.5s to 2.1s on high-load queries  
-
----
-
-### 🔹 Data Analyst | Accenture  
-📅 Nov 2020 – Aug 2023  
-- Led web reporting platform (ASP.NET MVC + SQL Server + React.js) for 60+ daily users  
-- Automated 50+ ETL pipelines (SQL Server & Teradata) for 8M daily records  
-- Optimized 22 queries, slashing report times from 12s to <3s  
-- Integrated unit testing into CI/CD pipelines to ensure clean deployments  
-
----
-
-### 🔹 Data Analyst | Adani   
-📅 May 2020 – Nov 2020  
-- Consolidated SCADA and sensor logs across 12 units for weekly energy audits  
-- Designed 20+ Power BI dashboards tracking runtime/load metrics for supervisors  
-- Built Python anomaly detection scripts flagging performance dips in <30 minutes  
-
----
-
-### 🔹 Data Analyst Intern | Adani   
-📅 Dec 2019 – May 2020  
-- Collected 50K+ equipment logs across 3 facilities to generate daily reports  
-- Created Power BI views for downtime and energy variance  
-- Used Python + Seaborn to find recurring fault patterns, guiding maintenance plans
-
----
-
 ## 🏅 Certifications
 
 - Microsoft Certified: Azure Fundamentals (AZ-900)  
